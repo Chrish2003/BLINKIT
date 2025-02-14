@@ -1,6 +1,6 @@
 # Blinkit Analysis
 
-This dashboard helps the blinkit understand their customers better. It helps the blinkit know if their customers are satisfied with their services. Through ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. 
+This dashboard helps blinkit to understand their customers better. It helps blinkit to know if their customers are satisfied with their services. Through ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. 
 
 ### Business Requirement
 
