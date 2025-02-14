@@ -14,8 +14,10 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 4.Average Ratings: The average customer rating for items sold.
 
 ## Chart's Requirements
-## 1.Total Sales by Fat Content:
+#### 1.Total Sales by Fat Content:
 Objective: Analyze the impact of fat content on total sales.
 Additional KPI Metrics: Asses how other KPIs(Average Sales, Number of Items, Average Rating) vary with fat content.
 Chart type: Donut Chart.
+
+
 
